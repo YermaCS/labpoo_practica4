@@ -8,6 +8,7 @@ public class Jugador {
     public Jugador(int numeroDeJugador){
         this.numeroDeJugador = numeroDeJugador;
         puntos=0;
+        //aaaaa
     }
     
     public boolean getCapacidadDeTirar(){
