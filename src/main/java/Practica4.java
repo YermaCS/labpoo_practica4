@@ -15,6 +15,7 @@ public class Practica4 {
     for(int j=1;j<10;j++)
     {
         if(primerVez==false)
+            System.out.println("holaaa");
             System.out.println("RONDA  # "+(j));
         
         for(i=0;i<num;i++)
